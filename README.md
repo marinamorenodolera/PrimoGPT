@@ -143,10 +143,27 @@ This research builds upon and extends the excellent work of the AI4Finance Found
 
 The success of this research would not have been possible without these foundational contributions to the field of AI in finance.
 
+
+## Citation
+
+If you use this code in your research, please cite our paper:
+
+Botunac, I.; Petković, T.; Bosna, J. Automated Trading Framework Using LLM-Driven Features and Deep Reinforcement Learning. *Big Data Cogn. Comput.* **2025**, *9*, 317. https://doi.org/10.3390/bdcc9120317
+
+```bibtex
+@article{botunac2025automated,
+  title={Automated Trading Framework Using LLM-Driven Features and Deep Reinforcement Learning},
+  author={Botunac, Ive and Petkovi{\'c}, Tomislav and Bosna, Jurica},
+  journal={Big Data and Cognitive Computing},
+  volume={9},
+  number={12},
+  pages={317},
+  year={2025},
+  publisher={MDPI}
+}
+```
+
 ## License and Disclaimer
 
 This project is licensed under the MIT License. This repository contains academic research code intended for educational purposes only. Nothing herein constitutes financial advice or trading recommendations. The trading strategies and analyses are experimental in nature and have not been validated for real-world trading. Users should be aware that trading involves substantial risk of loss and should always consult financial professionals before making investment decisions.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ivebotunac/PrimoGPT&type=Date)](https://www.star-history.com/#ivebotunac/PrimoGPT&Date)
